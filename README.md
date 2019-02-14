@@ -10,4 +10,6 @@
 打开[localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 
+## 注意事项
 
+这个示例项目是使用Spring Boot2的，Spring Boot1的用法并无区别，替换掉依赖版本即可。
